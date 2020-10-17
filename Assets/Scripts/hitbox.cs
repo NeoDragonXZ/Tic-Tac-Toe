@@ -18,10 +18,8 @@ public class hitbox : MonoBehaviour
     public GameObject slash1;
     public GameObject slash2;
     public GameObject slash3;
-    public GameObject slash4;
 
     private int[] pos = { 0, 0, 0, 0, 0, 0, 0, 0, 0 };
-    public int _pos;
 
     private bool player1 = true;
     private bool win1 = false;
